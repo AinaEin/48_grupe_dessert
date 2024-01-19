@@ -20,11 +20,14 @@ img {
 .box-left {
   float: left;
   width: 50%;
+  margin-bottom: 10%;
+  margin-top: 2%;
 }
 
 .box-right {
   float: right;
   width: 50%;
+  margin-bottom: 10%;
 }
 
 .first-paragraph {
