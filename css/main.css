@@ -1,0 +1,47 @@
+body {
+  background-color: rosybrown;
+}
+
+h1 {
+    font-family: fantasy;
+    text-align: center;
+}
+
+.img-box {
+  float: left;
+  width: 49%;
+}
+
+img {
+  width: 50%;
+  margin-left: 60px;
+}
+
+.box-left {
+  float: left;
+  width: 50%;
+}
+
+.box-right {
+  float: right;
+  width: 50%;
+}
+
+.first-paragraph {
+  /* margin-left: 0; */
+  /* float: right; */
+}
+
+ .clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.second-box {
+    margin-top: 300px;
+    width: 75%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
